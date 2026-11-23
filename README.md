@@ -7,7 +7,7 @@
   <a href="https://akashtk.web.app/Akash_TK_Full_Stack_DotNet_Developer_CV.pdf"><img src="assets/buttons/cv.png" alt="Download CV" height="40"></a>
 </p>
 
-I build secure, multi-tenant web platforms with modern .NET, Angular and React, from database design to production deployment. 2.5 years of experience, based in Dubai, available immediately.
+**2.5 years** building .NET microservices, Angular and React applications · based in Dubai · available immediately
 
 ### Experience
 
