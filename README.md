@@ -22,6 +22,8 @@ I build secure, multi-tenant web platforms with modern .NET, Angular and React, 
 | **OrderTrail** | Order and production tracking (ASP.NET Core 10, React 19, PostgreSQL), built the same way, now used by a footwear manufacturer. | [ordertrail.klivia.in](https://ordertrail.klivia.in) · private repo |
 | **[Arla Connect](https://github.com/tkakashofficial-dev/arla-connect)** | B2B ordering portal, a portfolio demo (Vue 3 + .NET 10). Not affiliated with Arla Foods. | [Live demo](https://arla-connect.vercel.app) |
 
+*Academic project:* **MQTT Security Using Cryptographic Method** (B.Tech final year, team of 3, 2024): AES-128 encryption of ESP32 sensor data before it is published over MQTT, so the broker only ever sees ciphertext.
+
 ### Tech
 
 **Backend:** C#, .NET 8 / .NET 10, ASP.NET Core, EF Core, gRPC, RabbitMQ (MassTransit), SignalR, Hangfire, Quartz.NET<br>
